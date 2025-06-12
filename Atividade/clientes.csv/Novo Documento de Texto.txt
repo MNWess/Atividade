@@ -1,0 +1,1 @@
+Nome;CPF;Email;CEP;Logradouro;Número;Bairro;Cidade;Estado;Telefone;WhatsApp

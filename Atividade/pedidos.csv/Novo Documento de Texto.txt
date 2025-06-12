@@ -1,0 +1,1 @@
+IDPedido;CPFCliente;NomeCliente;Data;Produto1|Qtd|Total,Produto2|Qtd|Total;TotalGeral
